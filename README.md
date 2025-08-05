@@ -59,10 +59,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Kaushik4141/Kaushik4141/output/snake.svg" alt="Snake animation" />
+<img align="center" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
 
 ###
