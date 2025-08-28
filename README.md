@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/27/1/socket-io-logo-png_seeklogo-273906.png" height="40" alt="socket logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" height="40" alt="socket logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
