@@ -3,7 +3,7 @@
   <br>🌱 Core Skills: Nest.js, Node.js, Express.js, MongoDB, Socket.io, Redies<br>
   <br>💻 Also Familiar With: Next.js, React, Typescript, JavaScript, Tailwind CSS, Motion<br>
   <br>👯 I’m looking to: Collaborate on interesting projects and secure a backend development internship. where I can contribute and grow.<br>
-  <br>📫 How to reach me: kaushik0h0s@gmail.com | LinkedIn: https://www.linkedin.com/in/kaushik-h-s/</p>
+  <br>📫 How to reach me: kaushik0h0s@gmail.com | LinkedIn: https://www.linkedin.com/in/kaushik-h-s/ | Portfolio: https://kaushikhs.in/</p>
 
 ###
 
