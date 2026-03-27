@@ -1,5 +1,5 @@
 <p align="left">Hi, I’m Kaushik H S 👋<br>
-  <br>I am a passionate and driven first-year Computer Science student with a strong focus on backend development. My goal is to build efficient, scalable, and robust server-side applications.<br><br>🔭 Primary Focus: Backend Development with Node.js<br>
+  <br>I am a passionate and driven second-year Computer Science student with a strong focus on backend development. My goal is to build efficient, scalable, and robust server-side applications.<br><br>🔭 Primary Focus: Backend Development with Node.js<br>
   <br>🌱 Core Skills: Nest.js, Node.js, Express.js, MongoDB, Socket.io, Redies<br>
   <br>💻 Also Familiar With: Next.js, React, Typescript, JavaScript, Tailwind CSS, Motion<br>
   <br>👯 I’m looking to: Collaborate on interesting projects and secure a backend development internship. where I can contribute and grow.<br>
